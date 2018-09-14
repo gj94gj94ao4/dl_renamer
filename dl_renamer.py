@@ -28,7 +28,7 @@ def main():
                     t_finish.rjcode, t_finish.maker, t_finish.name))
             else:
                 os.rename(req, "[{}][{}] {}.{}".format(
-                    t_finish.rjcode, t_finish.maker, t_finish.name, req.split(".")[1]))
+                    t_finish.rjcode, t_finish.maker, t_finish.name, req.split(".").pop()))
             print("成功~ 改名為[{}][{}] {}".format(
                 t_finish.rjcode, t_finish.maker, t_finish.name))
         except Exception as e:
@@ -77,7 +77,7 @@ def parse_id_list(dir_list):
 
 def _safe_name(name: str()):
     replacement = {"?": "(問號)", "<": "(小於)", ">": "(大於)", ":": "(冒號)",
-                   "\"": "(雙引號)", "/": "(正斜線)", "\\": "(反斜線)", "|": "(管號", "*": "(星號)"}
+                   "\"": "(雙引號)", "/": "(正斜線)", "\\": "(反斜線)", "|": "(管號)", "*": "(星號)"}
     for old, new in replacement.items():
         name = name.replace(old, new)
     return name
