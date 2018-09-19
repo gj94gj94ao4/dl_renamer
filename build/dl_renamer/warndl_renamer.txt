@@ -20,12 +20,10 @@ missing module named urllib.unquote_plus - imported by urllib, requests.compat
 missing module named urllib.quote_plus - imported by urllib, requests.compat
 missing module named urllib.unquote - imported by urllib, requests.compat
 missing module named urllib.quote - imported by urllib, requests.compat
-missing module named grp - imported by shutil, tarfile, pathlib, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
-missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, pathlib, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
+missing module named grp - imported by shutil, tarfile, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
 missing module named _dummy_threading - imported by dummy_threading, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
 missing module named 'org.python' - imported by copy, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py, xml.sax
-missing module named _gdbm - imported by dbm.gnu
-missing module named _dbm - imported by dbm.ndbm
 missing module named iconv_codec - imported by bs4.dammit
 missing module named cchardet - imported by bs4.dammit
 missing module named 'html5lib.treebuilders' - imported by bs4.builder._html5lib
