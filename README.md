@@ -1,9 +1,8 @@
 # dl_renamer 1.0.1
 
-總之就是換名子的，格式能改，去config.ini看格式  
-增加了hardlink連結的分類，如果不清楚hardlink是甚麼可以去google baidu  
-簡單來說就是，直接連結到硬碟位置，檔案管理員會認為他是實體檔案，事實上他會是連結。  
-想要查看檔案硬連結(hardlink)的數量，可以在cmd上輸入 sh
+總之就是換名子的，格式能改，先執行一次產生config.ini再去裡面看格式  
+增加了hardlink連結的分類，如果不清楚hardlink是怎麼回事，想了解HL工作原理可以去google or baidu  
+簡單來說就是，直接連結到硬碟位置，windows檔案總管會認為他是實體檔案，事實上他會是連結。  
 
 ## 簡單使用
 
