@@ -8,11 +8,14 @@
 ## 簡單使用
 
 如果你是windows使用者  
-就執行位於*dist*下的*exe*檔案
+就執行位於目錄下的*exe*檔案
 
 ![before](/usage_pic/before.PNG)
 ![middle](/usage_pic/middle.PNG)
 ![after](/usage_pic/after.PNG)
 
+Hard Link  
+![hardlink](/usage_pic/hardlink.PNG)
+
 如果你是mac那就直接上環境吧，那抱歉 mac 沒辦法hardlink你可以選擇不要hardlink  
-不過我沒有mac會怎麼樣我就不知了
+不過我沒有mac會怎麼樣我就不知道了
