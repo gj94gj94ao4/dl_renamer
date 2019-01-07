@@ -1,7 +1,6 @@
 missing module named resource - imported by posix, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
 missing module named posix - imported by os, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
 missing module named _posixsubprocess - imported by subprocess, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
-missing module named org - imported by pickle, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
 missing module named readline - imported by cmd, code, pdb, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
 excluded module named _frozen_importlib - imported by importlib, importlib.abc, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
 missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
@@ -21,9 +20,10 @@ missing module named urllib.quote_plus - imported by urllib, requests.compat
 missing module named urllib.unquote - imported by urllib, requests.compat
 missing module named urllib.quote - imported by urllib, requests.compat
 missing module named grp - imported by shutil, tarfile, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
-missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
 missing module named _dummy_threading - imported by dummy_threading, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
 missing module named 'org.python' - imported by copy, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py, xml.sax
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
+missing module named org - imported by pickle, D:\CodeOnOneDrive\Python\dlsite_renamer\dl_renamer.py
 missing module named iconv_codec - imported by bs4.dammit
 missing module named cchardet - imported by bs4.dammit
 missing module named 'html5lib.treebuilders' - imported by bs4.builder._html5lib
