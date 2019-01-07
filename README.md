@@ -10,7 +10,7 @@
 如果你是windows使用者  
 就執行位於目錄下的*exe*檔案
 
-![before](/usage_pic/before.PNG)
+![before](/usage_pic/before2.PNG)
 ![middle](/usage_pic/middle.PNG)
 ![after](/usage_pic/after.PNG)
 
