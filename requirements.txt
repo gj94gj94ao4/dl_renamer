@@ -6,4 +6,4 @@ idna==2.7
 lxml==4.2.4
 mir.dlsite==0.5.0
 requests==2.19.1
-urllib3==1.23
+urllib3==1.24.2
